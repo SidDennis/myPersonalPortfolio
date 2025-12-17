@@ -15,7 +15,7 @@ A few things I'd like to display:
 * reflections/blog
 * display people who've worked with me
 
-## techstack
+## Techstack
 Frontend: React
 backend: TBD
 
