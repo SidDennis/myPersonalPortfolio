@@ -6,7 +6,7 @@ For clarity, I've mostly been doing backend programming for the last few years. 
 
 Therefore, for the next few projects, inlcuding this, I'm going to try building from a frontend developers perspective from figuring out what it needs to display to whether It needs a backend route at all.
 
-# Use cases
+## Use cases
 A few things I'd like to display:
 * My Work Experience
 * Hackathons
@@ -15,11 +15,11 @@ A few things I'd like to display:
 * reflections/blog
 * display people who've worked with me
 
-# techstack
+## techstack
 Frontend: React
 backend: TBD
 
-# My progress
+## My progress
 
 
 
